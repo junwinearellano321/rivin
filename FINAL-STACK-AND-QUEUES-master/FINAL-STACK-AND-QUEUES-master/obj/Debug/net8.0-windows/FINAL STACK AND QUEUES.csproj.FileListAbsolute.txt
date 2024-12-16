@@ -1,0 +1,19 @@
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\bin\Debug\net8.0-windows\FINAL STACK AND QUEUES.exe
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\bin\Debug\net8.0-windows\FINAL STACK AND QUEUES.deps.json
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\bin\Debug\net8.0-windows\FINAL STACK AND QUEUES.runtimeconfig.json
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\bin\Debug\net8.0-windows\FINAL STACK AND QUEUES.dll
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\bin\Debug\net8.0-windows\FINAL STACK AND QUEUES.pdb
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL_STACK_AND_QUEUES.Form1.resources
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL_STACK_AND_QUEUES.Properties.Resources.resources
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL_STACK_AND_QUEUES.Queue.resources
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL_STACK_AND_QUEUES.Stack.resources
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL STACK AND QUEUES.csproj.GenerateResource.cache
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL STACK AND QUEUES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL STACK AND QUEUES.AssemblyInfoInputs.cache
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL STACK AND QUEUES.AssemblyInfo.cs
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL STACK AND QUEUES.csproj.CoreCompileInputs.cache
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL STACK AND QUEUES.dll
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\refint\FINAL STACK AND QUEUES.dll
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL STACK AND QUEUES.pdb
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\FINAL STACK AND QUEUES.genruntimeconfig.cache
+C:\Users\jadea\Downloads\FINAL-STACK-AND-QUEUES-master\FINAL-STACK-AND-QUEUES-master\obj\Debug\net8.0-windows\ref\FINAL STACK AND QUEUES.dll
